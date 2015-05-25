@@ -64,6 +64,7 @@
 			isa = PBXGroup;
 			children = (
 				9D1C73F91B136DD300365096 /* Progress */,
+				9D1C74201B136DF600365096 /* Frameworks */,
 				9D1C74131B136DD300365096 /* ProgressTests */,
 				9D1C73F81B136DD300365096 /* Products */,
 			);
@@ -117,6 +118,13 @@
 				9D1C74151B136DD300365096 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9D1C74201B136DF600365096 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
